@@ -67,7 +67,7 @@ AI_Post_Similarity/
 ##Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI_Post_Similarity.git
+git clone https://github.com/AzeemHusain13/AI_Post_Similarity.git
 cd AI_Post_Similarity
 
 
