@@ -1,4 +1,4 @@
-# AI Post Similarity Matching & Topic Clustering
+# AI Post Similarity Matching & Topic Clustering (Live)
 
 This project builds an AI pipeline to identify **similar posts** and group them into **topic clusters** using semantic embeddings and vector similarity search.
 
